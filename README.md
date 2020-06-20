@@ -1,2 +1,2 @@
-# FaculdadePit-goras
+# FaculdadePitagoras
 Provas e trabalhos da Faculdade
